@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # 💫 About Me:
 FastApi<br>Java, Springboot<br>Opportunities<br>Java, Springboot, Microservices, Design Patterns, Aws, Python, FastApi
 
@@ -19,4 +16,3 @@ FastApi<br>Java, Springboot<br>Opportunities<br>Java, Springboot, Microservices,
 [![](https://visitcount.itsvg.in/api?id=Rishi15987&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
